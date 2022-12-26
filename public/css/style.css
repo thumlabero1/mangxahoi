@@ -1,0 +1,28 @@
+.card-img-top{
+    border-radius: 50%;
+    width: 50px;
+    padding: 5px;
+}
+.fa-heart{
+    color: crimson;
+}
+.fa-comment{
+    color: rgb(0, 149, 255);
+}
+.fa-share{
+color: blue;
+}
+.thongtinnguoidung{
+    border-radius: 10px;
+}
+.button{
+    border-radius: 10px;
+    border-color: white;
+}
+
+.card{
+    padding: 10px;
+}
+.banchuadangnhap{
+    color: antiquewhite;
+}
